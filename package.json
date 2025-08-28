@@ -1,0 +1,13 @@
+{
+  "name": "membit-bot-simple",
+  "version": "1.0.0",
+  "description": "Simple Membit Auto Scroll Bot with Engagement & Uniqueness filter",
+  "main": "membit-engagement-unique.js",
+  "type": "module",
+  "scripts": {
+    "start": "node membit-engagement-unique.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}
